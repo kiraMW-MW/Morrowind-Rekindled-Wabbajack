@@ -1,1 +1,41 @@
-
+[
+  {
+    "title": "Morrowind Rekindled",
+    "description": "An adventure-focused OpenMW modlist with dangerous exploration, slower progression, new lands, quests, and easy Wabbajack installation.",
+    "author": "kiraMW-MW",
+    "maintainers": [
+      "github/kiraMW-MW"
+    ],
+    "game": "morrowind",
+    "official": false,
+    "tags": [
+      "OpenMW",
+      "Lore-Friendly",
+      "Overhaul",
+      "Tamriel Rebuilt"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/kiraMW-MW/Morrowind-Rekindled-Wabbajack/main/Rekindled-Wabbajack.webp",
+      "readme": "https://github.com/kiraMW-MW/Morrowind-Rekindled-Wabbajack/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Rekindled%20-%20Beta.wabbajack_a0f2affd-65c5-4998-b734-2786ef17ba22",
+      "machineURL": "MorrowindRekindled",
+      "websiteURL": "https://www.nexusmods.com/morrowind/mods/59918",
+      "nexusCollection": null
+    },
+    "download_metadata": {
+      "Hash": "XJEOIQjPAZA=",
+      "Size": 24337356,
+      "NumberOfArchives": 180,
+      "SizeOfArchives": 9105858193,
+      "NumberOfInstalledFiles": 99605,
+      "SizeOfInstalledFiles": 15746512462,
+      "TotalSize": 24852370655
+    },
+    "version": "0.50"
+  }
+]
