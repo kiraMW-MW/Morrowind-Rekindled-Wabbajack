@@ -22,20 +22,12 @@
     "links": {
       "image": "https://raw.githubusercontent.com/kiraMW-MW/Morrowind-Rekindled-Wabbajack/main/Rekindled-Wabbajack.webp",
       "readme": "https://github.com/kiraMW-MW/Morrowind-Rekindled-Wabbajack/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Rekindled%20-%20Beta.wabbajack_a0f2affd-65c5-4998-b734-2786ef17ba22",
+      "download": "https://authored-files.wabbajack.org/Rekindled%20-%20Beta.wabbajack_d5d6c277-5800-4984-b00b-d41b3dac5516",
       "machineURL": "MorrowindRekindled",
       "websiteURL": "https://www.nexusmods.com/morrowind/mods/59918",
       "nexusCollection": null
     },
-    "download_metadata": {
-      "Hash": "XJEOIQjPAZA=",
-      "Size": 24337356,
-      "NumberOfArchives": 180,
-      "SizeOfArchives": 9105858193,
-      "NumberOfInstalledFiles": 99605,
-      "SizeOfInstalledFiles": 15746512462,
-      "TotalSize": 24852370655
-    },
-    "version": "0.50"
+    "download_metadata": {"Hash":"BXKsVtBkygc=","Size":24341415,"NumberOfArchives":184,"SizeOfArchives":9227006691,"NumberOfInstalledFiles":99732,"SizeOfInstalledFiles":15749120674,"TotalSize":24976127365},
+    "version": "0.51.0"
   }
 ]
